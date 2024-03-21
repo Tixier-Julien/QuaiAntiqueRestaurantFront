@@ -102,3 +102,14 @@ p{
         padding: 10px;
     }
 }
+
+// Début du test carte restaurant 
+.carte-restaurant-content{
+    li{
+        color: black;
+    }
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+//Fin du test 

@@ -12058,4 +12058,13 @@ p {
   display: block;
   color: black;
   padding: 10px;
+}
+
+.carte-restaurant-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.carte-restaurant-content li {
+  color: black;
 }/*# sourceMappingURL=main.css.map */
