@@ -12063,6 +12063,7 @@ p {
 .carte-restaurant-content {
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
   padding: 10px;
 }
 .carte-restaurant-content li {
