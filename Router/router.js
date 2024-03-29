@@ -81,7 +81,7 @@ const LoadContentPage = async () => {
 
     // Création d'une balise script
 
-    var scriptTag = document.createElement("script");
+    let scriptTag = document.createElement("script");
 
     scriptTag.setAttribute("type", "text/javascript");
 
